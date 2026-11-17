@@ -1,0 +1,6 @@
+/* Theme: orange primary */
+:root {
+    --bs-primary-base: #c2410c;
+    --bs-primary-bg: #c2410c;
+    --bs-primary-contrast: #ffffff;
+  }
